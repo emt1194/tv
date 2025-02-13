@@ -77,7 +77,7 @@ video.interstitial {
   z-index: 100;
 }
 #dumb-circle {
-  background: url("../content/images/dumb-square.png");
+  background: url("../content/images/dextools.png");
   background-size: cover;
   border-radius: 50%;
   border: 5px solid #4788c7;
